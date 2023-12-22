@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="278" viewBox="0 0 820 278">
+  <g id="Group_1072276" data-name="Group 1072276" transform="translate(-390 -1677)">
+    <rect id="Rectangle_377785" data-name="Rectangle 377785" width="820" height="278" transform="translate(390 1677)" fill="#ebfbf3"/>
+    <g id="Group_1072183" data-name="Group 1072183" transform="translate(0 8)">
+      <path id="Path_838961" data-name="Path 838961" d="M-10261-9892.5h224.737" transform="translate(10959.333 11700.281)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <path id="Path_838962" data-name="Path 838962" d="M-10165.5-9970v144.6" transform="translate(10966.035 11694.842)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <g id="Group_1072178" data-name="Group 1072178" transform="translate(748.632 1777.28)">
+        <rect id="Rectangle_377754" data-name="Rectangle 377754" width="102" height="59" rx="10" transform="translate(0.369 -0.281)" fill="#0a5e6b"/>
+        <text id="Concepto" transform="translate(15.368 35.719)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Concepto</tspan></text>
+      </g>
+      <g id="Group_1072179" data-name="Group 1072179" transform="translate(698.333 1690.597)">
+        <rect id="Rectangle_377755" data-name="Rectangle 377755" width="204" height="47" rx="10" transform="translate(-0.333 0.403)" fill="#e6ff48"/>
+        <text id="Supraordinada" transform="translate(45.667 30.404)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Supraordinada</tspan></text>
+      </g>
+      <g id="Group_1072180" data-name="Group 1072180" transform="translate(698.333 1869.315)">
+        <rect id="Rectangle_377756" data-name="Rectangle 377756" width="204" height="47" rx="10" transform="translate(-0.333 -0.316)" fill="#e6ff48"/>
+        <text id="Infraordianda" transform="translate(50.667 29.684)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Infraordianda</tspan></text>
+      </g>
+      <g id="Group_1072181" data-name="Group 1072181" transform="translate(901.667 1783.701)">
+        <rect id="Rectangle_377757" data-name="Rectangle 377757" width="203" height="47" rx="10" transform="translate(0.334 0.298)" fill="#e6ff48"/>
+        <text id="Exclusiones" transform="translate(59.333 30.298)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Exclusiones</tspan></text>
+      </g>
+      <g id="Group_1072182" data-name="Group 1072182" transform="translate(495 1783.701)">
+        <rect id="Rectangle_377758" data-name="Rectangle 377758" width="203" height="47" rx="10" transform="translate(0 0.298)" fill="#e6ff48"/>
+        <text id="Isoordinada" transform="translate(57 30.298)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Isoordinada</tspan></text>
+      </g>
+      <path id="Path_838963" data-name="Path 838963" d="M-10090.242-9905.373v18.529" transform="translate(10971.316 11703.89)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <path id="Path_838964" data-name="Path 838964" d="M-10090.242-9905.373v18.529" transform="translate(10984.158 11703.89)" fill="none" stroke="#12263f" stroke-width="2"/>
+      <text id="P1" transform="translate(819 1758)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">P1</tspan></text>
+      <text id="P2" transform="translate(817 1857)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">P2</tspan></text>
+    </g>
+  </g>
+</svg>

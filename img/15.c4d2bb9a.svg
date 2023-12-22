@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="447" viewBox="0 0 820 447">
+  <g id="Group_1072294" data-name="Group 1072294" transform="translate(-390 -6123)">
+    <g id="Group_1072281" data-name="Group 1072281">
+      <rect id="Rectangle_377784" data-name="Rectangle 377784" width="820" height="447" transform="translate(390 6123)" fill="#fcffe6"/>
+      <g id="Group_1072256" data-name="Group 1072256" transform="translate(-104 601.004)">
+        <path id="Path_839079" data-name="Path 839079" d="M-10165.5-9970v149.681" transform="translate(11111.035 15563.837)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <path id="Path_839085" data-name="Path 839085" d="M-10165.5-9970v19.636" transform="translate(11227.035 15630.676)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <path id="Path_839086" data-name="Path 839086" d="M-10165.5-9970v19.636" transform="translate(11220.035 15630.676)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <path id="Path_839128" data-name="Path 839128" d="M2.939-3.507V0H.889V-9.953H4.771a4.492,4.492,0,0,1,1.972.41A3.022,3.022,0,0,1,8.053-8.377a3.25,3.25,0,0,1,.458,1.719,2.858,2.858,0,0,1-1,2.307,4.171,4.171,0,0,1-2.772.844Zm0-1.661H4.771a1.8,1.8,0,0,0,1.241-.383,1.392,1.392,0,0,0,.427-1.094,1.642,1.642,0,0,0-.431-1.183,1.609,1.609,0,0,0-1.189-.465H2.939ZM14.506,0H12.53V-7.615l-2.358.731V-8.49l4.122-1.477h.212Z" transform="translate(964 5628.996)" fill="#12263f"/>
+        <path id="Path_839129" data-name="Path 839129" d="M2.939-3.507V0H.889V-9.953H4.771a4.492,4.492,0,0,1,1.972.41A3.022,3.022,0,0,1,8.053-8.377a3.25,3.25,0,0,1,.458,1.719,2.858,2.858,0,0,1-1,2.307,4.171,4.171,0,0,1-2.772.844Zm0-1.661H4.771a1.8,1.8,0,0,0,1.241-.383,1.392,1.392,0,0,0,.427-1.094,1.642,1.642,0,0,0-.431-1.183,1.609,1.609,0,0,0-1.189-.465H2.939Zm12.127-4.888v1.627h-.191a3.356,3.356,0,0,0-2.157.7,2.833,2.833,0,0,0-.981,1.88,2.691,2.691,0,0,1,2-.807,2.535,2.535,0,0,1,2.064.93,3.727,3.727,0,0,1,.766,2.447,3.666,3.666,0,0,1-.42,1.757A3.015,3.015,0,0,1,14.96-.3a3.456,3.456,0,0,1-1.74.438,3.227,3.227,0,0,1-2.54-1.094,4.246,4.246,0,0,1-.967-2.919v-.711a6.389,6.389,0,0,1,.612-2.861,4.486,4.486,0,0,1,1.757-1.921,5.148,5.148,0,0,1,2.656-.687Zm-1.928,4.99a1.578,1.578,0,0,0-.868.249,1.5,1.5,0,0,0-.574.658v.6a2.66,2.66,0,0,0,.39,1.545,1.259,1.259,0,0,0,1.094.556,1.245,1.245,0,0,0,1.029-.5,2.045,2.045,0,0,0,.393-1.3,2.041,2.041,0,0,0-.4-1.31A1.292,1.292,0,0,0,13.139-5.065Z" transform="translate(1019 5655.131)" fill="#12263f"/>
+        <path id="Path_839130" data-name="Path 839130" d="M2.939-3.507V0H.889V-9.953H4.771a4.492,4.492,0,0,1,1.972.41A3.022,3.022,0,0,1,8.053-8.377a3.25,3.25,0,0,1,.458,1.719,2.858,2.858,0,0,1-1,2.307,4.171,4.171,0,0,1-2.772.844Zm0-1.661H4.771a1.8,1.8,0,0,0,1.241-.383,1.392,1.392,0,0,0,.427-1.094,1.642,1.642,0,0,0-.431-1.183,1.609,1.609,0,0,0-1.189-.465H2.939Zm8.777-.684H12.77a1.483,1.483,0,0,0,1.114-.376,1.378,1.378,0,0,0,.362-1,1.218,1.218,0,0,0-.359-.937A1.391,1.391,0,0,0,12.9-8.5a1.458,1.458,0,0,0-.95.311,1,1,0,0,0-.383.81H9.591a2.43,2.43,0,0,1,.42-1.4,2.8,2.8,0,0,1,1.176-.967,3.924,3.924,0,0,1,1.665-.349,3.722,3.722,0,0,1,2.475.755,2.577,2.577,0,0,1,.9,2.082A2.094,2.094,0,0,1,15.8-6a2.709,2.709,0,0,1-1.094.882,2.473,2.473,0,0,1,1.254.9,2.448,2.448,0,0,1,.414,1.422,2.62,2.62,0,0,1-.967,2.126,3.889,3.889,0,0,1-2.56.8,3.688,3.688,0,0,1-2.437-.786,2.567,2.567,0,0,1-.947-2.078h1.976a1.145,1.145,0,0,0,.42.916,1.549,1.549,0,0,0,1.036.355A1.556,1.556,0,0,0,14-1.829a1.286,1.286,0,0,0,.4-.988q0-1.49-1.641-1.49H11.717Z" transform="translate(964 5730.019)" fill="#12263f"/>
+        <path id="Path_839131" data-name="Path 839131" d="M2.939-3.507V0H.889V-9.953H4.771a4.492,4.492,0,0,1,1.972.41A3.022,3.022,0,0,1,8.053-8.377a3.25,3.25,0,0,1,.458,1.719,2.858,2.858,0,0,1-1,2.307,4.171,4.171,0,0,1-2.772.844Zm0-1.661H4.771a1.8,1.8,0,0,0,1.241-.383,1.392,1.392,0,0,0,.427-1.094,1.642,1.642,0,0,0-.431-1.183,1.609,1.609,0,0,0-1.189-.465H2.939ZM10-4.895l.574-5.059h5.578v1.647H12.2l-.246,2.14a3.132,3.132,0,0,1,1.5-.376,2.869,2.869,0,0,1,2.229.882,3.522,3.522,0,0,1,.807,2.468,3.609,3.609,0,0,1-.407,1.726A2.871,2.871,0,0,1,14.909-.284a3.639,3.639,0,0,1-1.791.42,3.864,3.864,0,0,1-1.675-.366,2.971,2.971,0,0,1-1.22-1.029,2.8,2.8,0,0,1-.475-1.511H11.7a1.46,1.46,0,0,0,.434.967,1.376,1.376,0,0,0,.974.345,1.215,1.215,0,0,0,1.032-.482A2.233,2.233,0,0,0,14.506-3.3a1.846,1.846,0,0,0-.417-1.3,1.53,1.53,0,0,0-1.183-.451,1.71,1.71,0,0,0-1.142.369l-.191.178Z" transform="translate(1098.315 5777.019)" fill="#12263f"/>
+        <path id="Path_839132" data-name="Path 839132" d="M2.939-3.507V0H.889V-9.953H4.771a4.492,4.492,0,0,1,1.972.41A3.022,3.022,0,0,1,8.053-8.377a3.25,3.25,0,0,1,.458,1.719,2.858,2.858,0,0,1-1,2.307,4.171,4.171,0,0,1-2.772.844Zm0-1.661H4.771a1.8,1.8,0,0,0,1.241-.383,1.392,1.392,0,0,0,.427-1.094,1.642,1.642,0,0,0-.431-1.183,1.609,1.609,0,0,0-1.189-.465H2.939ZM15.552-3.746H16.68v1.593H15.552V0H13.576V-2.153H9.5L9.406-3.4l4.149-6.556h2Zm-4.177,0h2.2V-7.26l-.13.226Z" transform="translate(784.886 5777.019)" fill="#12263f"/>
+        <path id="Path_839133" data-name="Path 839133" d="M2.939-3.507V0H.889V-9.953H4.771a4.492,4.492,0,0,1,1.972.41A3.022,3.022,0,0,1,8.053-8.377a3.25,3.25,0,0,1,.458,1.719,2.858,2.858,0,0,1-1,2.307,4.171,4.171,0,0,1-2.772.844Zm0-1.661H4.771a1.8,1.8,0,0,0,1.241-.383,1.392,1.392,0,0,0,.427-1.094,1.642,1.642,0,0,0-.431-1.183,1.609,1.609,0,0,0-1.189-.465H2.939ZM16.529,0H9.707V-1.354l3.22-3.432a7.943,7.943,0,0,0,.981-1.265,2.032,2.032,0,0,0,.318-1.025,1.52,1.52,0,0,0-.335-1.042,1.209,1.209,0,0,0-.957-.379,1.3,1.3,0,0,0-1.056.461,1.828,1.828,0,0,0-.386,1.213H9.509a3.263,3.263,0,0,1,.434-1.661A3.059,3.059,0,0,1,11.17-9.663a3.73,3.73,0,0,1,1.8-.427,3.531,3.531,0,0,1,2.389.738,2.612,2.612,0,0,1,.851,2.085,3.347,3.347,0,0,1-.383,1.5,8.357,8.357,0,0,1-1.312,1.784L12.25-1.593h4.279Z" transform="translate(834.5 5655.131)" fill="#12263f"/>
+        <g id="Group_1072248" data-name="Group 1072248" transform="translate(5)">
+          <text id="_" data-name="●
+●
+●
+  " transform="translate(553 5634.416)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="17">●</tspan><tspan y="17" font-family="Roboto-Bold, Roboto"></tspan><tspan x="0" y="37">●</tspan><tspan y="37" font-family="Roboto-Bold, Roboto"></tspan><tspan x="0" y="57">●</tspan><tspan y="57" font-family="Roboto-Bold, Roboto"></tspan></text>
+          <text id="Relativamente_corto_Tiene_inicio_nudo_y_desenlace_Real_o_imaginario" data-name="Relativamente corto
+Tiene inicio, nudo y desenlace
+Real o imaginario" transform="translate(573 5654.865)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Relativamente corto</tspan><tspan x="0" y="20">Tiene inicio, nudo y desenlace</tspan><tspan x="0" y="40">Real o imaginario</tspan></text>
+        </g>
+        <g id="Group_1072257" data-name="Group 1072257" transform="translate(529)">
+          <text id="_2" data-name="●
+●  " transform="translate(557 5648.416)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="17">●</tspan><tspan y="17" font-family="Roboto-Bold, Roboto"></tspan><tspan x="0" y="37">●</tspan><tspan y="37" xml:space="preserve" font-family="Roboto-Bold, Roboto">  </tspan></text>
+          <text id="Mitos_Leyendas" data-name="Mitos
+Leyendas" transform="translate(577 5668.865)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Mitos</tspan><tspan x="0" y="20">Leyendas</tspan></text>
+        </g>
+        <path id="Path_839081" data-name="Path 839081" d="M-10261-9892.5h260.152" transform="translate(11068.001 15562.995)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <path id="Path_839087" data-name="Path 839087" d="M-10261-9776.782V-9892.5h270.3v115.719" transform="translate(11074.7 15635.654)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <path id="Path_839088" data-name="Path 839088" d="M-10261-9842.669V-9892.5h105v49.832" transform="translate(11022.2 15751.373)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <path id="Path_839089" data-name="Path 839089" d="M-10261-9842.669V-9892.5h198.73v49.832" transform="translate(11250.577 15751.373)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <g id="Group_1072238" data-name="Group 1072238" transform="translate(843.333 5559.592)">
+          <rect id="Rectangle_377755" data-name="Rectangle 377755" width="204" height="47" rx="10" transform="translate(-0.333 0.403)" fill="#e6ff48"/>
+          <text id="Género_narrativo" data-name="Género narrativo" transform="translate(39.667 30.404)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Género narrativo</tspan></text>
+        </g>
+        <g id="Group_1072246" data-name="Group 1072246" transform="translate(761.533 5787.55)">
+          <rect id="Rectangle_377755-2" data-name="Rectangle 377755" width="105" height="47" rx="10" transform="translate(-0.333 0.403)" fill="#e6ff48"/>
+          <text id="Origen" transform="translate(28.667 29.404)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Origen</tspan></text>
+        </g>
+        <g id="Group_1072249" data-name="Group 1072249" transform="translate(712.731 5883.385)">
+          <g id="Rectangle_377755-3" data-name="Rectangle 377755" transform="translate(-0.333 0.403)" fill="#fff" stroke="#12263f" stroke-width="2">
+            <rect width="97.602" height="47" rx="10" stroke="none"/>
+            <rect x="1" y="1" width="95.602" height="45" rx="9" fill="none"/>
+          </g>
+          <text id="Populares" transform="translate(11.968 29.404)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Populares</tspan></text>
+        </g>
+        <g id="Group_1072251" data-name="Group 1072251" transform="translate(937.41 5883.385)">
+          <g id="Rectangle_377755-4" data-name="Rectangle 377755" transform="translate(-0.333 0.403)" fill="#fff" stroke="#12263f" stroke-width="2">
+            <rect width="105" height="47" rx="10" stroke="none"/>
+            <rect x="1" y="1" width="103" height="45" rx="9" fill="none"/>
+          </g>
+          <text id="Fantásticos" transform="translate(10.166 29.404)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Fantásticos</tspan></text>
+        </g>
+        <g id="Group_1072253" data-name="Group 1072253" transform="translate(1125.333 5883.385)">
+          <g id="Rectangle_377755-5" data-name="Rectangle 377755" transform="translate(-0.333 0.403)" fill="#fff" stroke="#12263f" stroke-width="2">
+            <rect width="126" height="47" rx="10" stroke="none"/>
+            <rect x="1" y="1" width="124" height="45" rx="9" fill="none"/>
+          </g>
+          <text id="Ciencia_ficción" data-name="Ciencia ficción" transform="translate(10.166 29.404)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Ciencia ficción</tspan></text>
+        </g>
+        <g id="Group_1072250" data-name="Group 1072250" transform="translate(817.731 5883.385)">
+          <g id="Rectangle_377755-6" data-name="Rectangle 377755" transform="translate(-0.333 0.403)" fill="#fff" stroke="#12263f" stroke-width="2">
+            <rect width="97.602" height="47" rx="10" stroke="none"/>
+            <rect x="1" y="1" width="95.602" height="45" rx="9" fill="none"/>
+          </g>
+          <text id="Literarios" transform="translate(14.868 29.404)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Literarios</tspan></text>
+        </g>
+        <g id="Group_1072252" data-name="Group 1072252" transform="translate(1052.215 5883.385)">
+          <g id="Rectangle_377755-7" data-name="Rectangle 377755" transform="translate(-0.333 0.403)" fill="#fff" stroke="#12263f" stroke-width="2">
+            <rect width="64.237" height="47" rx="10" stroke="none"/>
+            <rect x="1" y="1" width="62.237" height="45" rx="9" fill="none"/>
+          </g>
+          <text id="Terror" transform="translate(9.786 29.403)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Terror</tspan></text>
+        </g>
+        <g id="Group_1072247" data-name="Group 1072247" transform="translate(1031.834 5787.55)">
+          <rect id="Rectangle_377755-8" data-name="Rectangle 377755" width="105" height="47" rx="10" transform="translate(-0.333 0.403)" fill="#e6ff48"/>
+          <text id="Tema" transform="translate(32.167 29.404)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Tema</tspan></text>
+        </g>
+        <g id="Group_1072239" data-name="Group 1072239" transform="translate(290 1304.882)">
+          <g id="Group_1072232" data-name="Group 1072232">
+            <g id="Group_1072231" data-name="Group 1072231" transform="translate(-149.001 2560.25)">
+              <g id="Group_1072178" data-name="Group 1072178" transform="translate(748.632 1777.28)">
+                <rect id="Rectangle_377754" data-name="Rectangle 377754" width="105" height="59" rx="10" transform="translate(0.369 -0.281)" fill="#0a5e6b"/>
+                <text id="Cuento" transform="translate(25.869 35.719)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Cuento</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
