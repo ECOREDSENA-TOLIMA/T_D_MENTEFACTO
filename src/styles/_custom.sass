@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
+    top: 10%
     right: 30%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 80%
+    right: 70%
 
 
 @keyframes float1
@@ -17,3 +22,48 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal__componente
+ h1  
+  color: $black
+.banner-principal__descripcion
+ p
+  color: $black
+.banner-principal__accion
+  a > *
+    color: $white
+
+//colot texto - Botones CF
+a.boton
+  i, span
+    color: $white
+
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .desktop 
+    display: none
+
+@media only screen and (width: 768px) 
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+
+  .slyder-b__slyde
+    .row
+      margin-right: 5rem !important
+      width: 80% 
+
+@media only screen and (min-width: 390px) and (max-width: 391px)
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+  .slyder-b__slyde
+    .row
+      margin-right: 5rem !important
+      width: 80%

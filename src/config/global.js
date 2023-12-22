@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Mentefacto',
+    descripcionCurso:
+      'Un mentefacto es una representación gráfica que organiza y muestra las relaciones entre conceptos y sus atributos. Se utiliza como herramienta visual para facilitar el análisis y comprensión de ideas complejas, ayudando a visualizar la estructura y conexiones conceptuales en diversos campos del conocimiento. En este anexo se dará a conocer los elementos que componen al mentefacto, el paso a paso para su elaboración y las herramientas más usadas para su desarrollo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -13,6 +14,10 @@ export default {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
     ],
   },
   menuPrincipal: {
@@ -22,66 +27,96 @@ export default {
         icono: 'fas fa-home',
         titulo: 'Volver al inicio',
       },
-      {
-        nombreRuta: 'introduccion',
-        icono: 'fas fa-info-circle',
-        titulo: 'Introducción',
-        desarrolloContenidos: true,
-      },
+      // {
+      //   nombreRuta: 'introduccion',
+      //   icono: 'fas fa-info-circle',
+      //   titulo: 'Introducción',
+      //   desarrolloContenidos: true,
+      // },
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Mentefacto',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Definición',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Elementos que componen un mentefacto',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Pasos para elaborar',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Recomendaciones para desarrollar un mentefacto',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo:
+              'Herramientas digitales se pueden utilizar para la elaboración un mentefacto',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Ejemplo de un mentefacto',
+            hash: 't_1_6',
           },
         ],
       },
-
-      {
-        nombreRuta: 'tema2',
-        numero: '2',
-        titulo: 'Titulo de primer nivel',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Titulo de primer nivel',
-        desarrolloContenidos: true,
-      },
+      // {
+      //   nombreRuta: 'tema2',
+      //   numero: '2',
+      //   titulo: 'Titulo de primer nivel',
+      //   desarrolloContenidos: true,
+      // },
+      // {
+      //   nombreRuta: 'tema3',
+      //   numero: '3',
+      //   titulo: 'Titulo de primer nivel',
+      //   desarrolloContenidos: true,
+      // },
     ],
     subMenu: [
-      {
-        icono: 'fas fa-sitemap',
-        titulo: 'Síntesis',
-        nombreRuta: 'sintesis',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'glosario',
-        icono: 'fas fa-sort-alpha-down',
-        titulo: 'Glosario',
-      },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+      // {
+      //   icono: 'fas fa-sitemap',
+      //   titulo: 'Síntesis',
+      //   nombreRuta: 'sintesis',
+      //   desarrolloContenidos: true,
+      // },
+      // {
+      //   nombreRuta: 'actividad',
+      //   icono: 'far fa-question-circle',
+      //   titulo: 'Actividad didáctica',
+      //   desarrolloContenidos: true,
+      // },
+      // {
+      //   nombreRuta: 'glosario',
+      //   icono: 'fas fa-sort-alpha-down',
+      //   titulo: 'Glosario',
+      // },
+      // {
+      //   nombreRuta: 'complementario',
+      //   icono: 'far fa-folder-open',
+      //   titulo: 'Material complementario',
+      // },
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
+      },
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar PDF',
+        download: 'downloads/Mentefacto.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -121,8 +156,13 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Zubiria, M. (2004). Enfoques pedagógicos y didácticas contemporáneas. Fundación Internacional de Pedagogía Conceptual Alberto Merani.',
       link: '',
+    },
+    {
+      referencia: 'SIEPSI. (s. f). Recursos educativos mentefacto.',
+      link: 'https://siepsi.com.co/herramientas-academicas/mentefacto-2/',
     },
   ],
   creditos: [
@@ -135,9 +175,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima  - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -145,9 +185,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Sergio Augusto Ardila Ortiz',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima  - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Maria Inés Machado López',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Tolima  - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -155,19 +200,14 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          nombre: 'Luis Fernando Botero Mendoza',
+          cargo: 'Diseñador Web',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Sebastian Trujillo Afanador',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -175,14 +215,9 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Jorge Bustos Gómez',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
-        },
-        {
-          nombre: 'Nombre validador',
-          cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
