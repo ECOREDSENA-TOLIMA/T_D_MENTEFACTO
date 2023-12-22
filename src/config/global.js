@@ -62,7 +62,7 @@ export default {
           {
             numero: '1.5',
             titulo:
-              'Herramientas digitales se pueden utilizar para la elaboración un mentefacto',
+              'Herramientas digitales que se pueden utilizar para la elaboración un mentefacto',
             hash: 't_1_5',
           },
           {

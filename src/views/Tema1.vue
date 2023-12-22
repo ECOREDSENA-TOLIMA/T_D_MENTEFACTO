@@ -134,7 +134,7 @@
 
     separador 
     .titulo-segundo.color-acento-contenido
-      h2#t_1_5 1.5 Herramientas digitales se pueden utilizar para la elaboración un mentefacto
+      h2#t_1_5 1.5 Herramientas digitales que se pueden utilizar para la elaboración un mentefacto
     
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.p-4.col-ipad(style="background-color: #CDF5E2")
@@ -201,7 +201,7 @@
               figure(data-aos="fade-right")
                 img(src='@/assets/curso/temas/12.svg' alt='En la figura 4 se muestra una operación de isoordinación en este caso con los parámetros: Relativamente corto Tiene inicio, nudo y desenlace Real o imaginario. En el ejemplo del cuento como tema principal.')
 
-        li.mt-5 <b>Infraordinada:</b> Son las subclases o derivaciones de una clase, es decir la relación entre el concepto a definir y las clases que tiene; las clasificaciones se realizan de acuerdo con criterios los cuales se organizan jerárquicamente. Siguiendo con el ejemplo, los cuentos pueden clasificarse por el origen y el tema.  Si el criterio es el origen o forma de creación, se podría afirmar que pueden ser cuentos populares y cuentos literarios de origen estructural; si el criterio de selección es según el tema que tratan, entonces se tendrían: fantásticos, de terror, ciencia ficción.
+        li.mt-5 <b>Infraordinada:</b> son las subclases o derivaciones de una clase, es decir la relación entre el concepto a definir y las clases que tiene; las clasificaciones se realizan de acuerdo con criterios los cuales se organizan jerárquicamente. Siguiendo con el ejemplo, los cuentos pueden clasificarse por el origen y el tema.  Si el criterio es el origen o forma de creación, se podría afirmar que pueden ser cuentos populares y cuentos literarios de origen estructural; si el criterio de selección es según el tema que tratan, entonces se tendrían: fantásticos, de terror, ciencia ficción.
         p.mt-3 Representado de manera gráfica sería lo siguiente:
         .row.justify-content-center.mt-5
           .col-lg-8.col-12 
@@ -214,7 +214,7 @@
             .col-12 
               figure.movil(data-aos="fade-right")
                 img(src='@/assets/curso/temas/14.svg' alt='En la figura 5 se muestra una operación de infraordinación en este caso con los parámetros: Origen: populares, literarios. Tema: fantásticos, terror, ciencia ficción. En el ejemplo del cuento como tema principal.')
-        li.mt-5 <b>Exclusiones:</b> Se refieren a los conceptos que se oponen o que generalmente se confunde con el concepto que se está definiendo. En este ejemplo el cuento se diferencia de una leyenda y un mito.
+        li.mt-5 <b>Exclusiones:</b> se refieren a los conceptos que se oponen o que generalmente se confunde con el concepto que se está definiendo. En este ejemplo el cuento se diferencia de una leyenda y un mito.
         .row.justify-content-center.mt-5
           .col-lg-8.col-12 
             .titulo-sexto.color-acento-contenido
